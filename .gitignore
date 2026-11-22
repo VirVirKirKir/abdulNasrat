@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# XcodeGen генерирует проект и build заново
+AlertOrenburg/AlertOrenburg.xcodeproj/
+AlertOrenburg/build/
+out/
+*.xcarchive
+
+# сервер
+server/data.json
+server/node_modules/
